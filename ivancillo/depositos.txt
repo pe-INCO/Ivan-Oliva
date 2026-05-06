@@ -1,3 +1,0 @@
-Hola, este es un ejemplo de manejo de archivos
-Depositos realizados:
-Linea final del archivo.
